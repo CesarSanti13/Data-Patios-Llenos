@@ -19,6 +19,7 @@ items.forEach((item) => {
             resultados.push({ 
               json: { 
                 Producto: row.Producto || null, 
+                Codigo: row.Codigo || null,
                 Precio: row.Precio || null, 
                 Medida: medida 
               } 
