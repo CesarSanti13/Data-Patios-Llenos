@@ -4,6 +4,7 @@ const items = $input.all();
 // ##/##R### ejem 160/45R16
 const exp = /\b\d{3}\/\d{2}R\d{2}\b|\b\d{2,3}x\d{2,3}(?:\.\d{1,2})?R\d{2}\b/gi;
 
+//todos los datos extraidos se guardara dentro de un array para que lo pueda interpretar el n8n 
 const resultados = [];
 
 items.forEach((item) => {
