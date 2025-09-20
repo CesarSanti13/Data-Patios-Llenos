@@ -37,7 +37,7 @@ The client uploads a raw Excel file containing product information to a shared G
 An n8n workflow detects the new file and initiates the cleaning process automatically.</p>
 
 <p><Strong>Data Cleaning & Extraction:</Strong>
-Tire measurements are extracted using JavaScript regex.</p>
+Tire measurements are extracted using JavaScript and a regex.</p>
 
 <p><Strong>Supported transformations include:</Strong>
 Hyphenated patterns like 155-70-13 → 155/70R13
