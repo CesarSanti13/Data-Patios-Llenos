@@ -37,10 +37,10 @@ The client uploads a raw Excel file containing product information to a shared G
 An n8n workflow detects the new file and initiates the cleaning process automatically.</p>
 
 <p><Strong>Data Cleaning & Extraction:</Strong>
-Tire measurements are extracted using JavaScript and a regex.</p>
+Tire measurements are extracted using JavaScript code and a regex.</p>
 
-<p><Strong>Supported transformations include:</Strong>
-Hyphenated patterns like 155-70-13 → 155/70R13
+<p><Strong>Supported transformations include:</Strong><br>
+Hyphenated patterns like 155-70-13 → 155/70R13<br>
 Hyphenated off-road patterns like 33-12.5R-18 → 33x12.5R18</p>
 
 <p><Strong>Output Delivery:</Strong>
@@ -53,7 +53,7 @@ The cleaned file is uploaded to a separate Google Drive folder for the chatbot t
 <h2>🧩 Tech Stack</h2>
 
 <p><Strong>Programming:</Strong>
-JavaScript (Regex for pattern detection & data transformation)</p>
+JavaScript language (Regex for pattern detection & data transformation)</p>
 
 <p><Strong>Automation:</Strong>
 n8n (event listener and pipeline orchestration)</p>
