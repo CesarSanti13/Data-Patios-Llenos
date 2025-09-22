@@ -70,6 +70,6 @@ Excel files containing product descriptions</p>
 
 <h2>🚀 Results</h2>
 
-Significant time savings by eliminating manual data cleaning.
-Reliable and uniform measurement formats ready for chatbot integration.
-Scalable pipeline capable of handling frequent updates with zero manual intervention.
+-Significant time savings by eliminating manual data cleaning.
+-Reliable and uniform measurement formats ready for chatbot integration.
+-Scalable pipeline capable of handling frequent updates with zero manual intervention.
